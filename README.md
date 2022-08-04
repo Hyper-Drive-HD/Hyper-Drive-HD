@@ -6,10 +6,10 @@ Doing so **we bring the learners and learned** under the same roof.
 
 We at Hyper Drive aim to motivate the young engineers to ..
 
-Make -> New robots
-Break -> The barriers
-Run -> Beyond the barriers
-Repeat -> The steps again
+Make -> New robots<br/>
+Break -> The barriers<br/>
+Run -> Beyond the barriers<br/>
+Repeat -> The steps again<br/>
 
 - We build autonomous bots
 - We encourage new enthusiast members to join us

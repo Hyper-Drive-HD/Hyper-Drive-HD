@@ -1,16 +1,22 @@
-### Hi there 👋
+### We are Hyper Drive
 
-<!--
-**Hyper-Drive-HD/Hyper-Drive-HD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hyper Drive is the child of curiosity and belief. We here build things which others fathom only. Our purpose in to bring like-minded **innovators**, **engineers**, **inventors**, **enthusiasts** and **competitors** under a single roof.
 
-Here are some ideas to get you started:
+Doing so **we bring the learners and learned** under the same roof.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+We at Hyper Drive aim to motivate the young engineers to ..
+
+Make - New robots
+Break - The barriers
+Run - Beyond the barriers
+Repeat - The steps again
+
+- We build autonomous bots
+- We encourage new enthusiast members to join us
+- We maintain a community of like minded people
+- We provide guidance for build autonomous bots
+- We provide expertise in bot building
+- We sell products of autonomous bots
+- We sell kits of autonomous bots
+
+A comunity of comitment, enthusiasm and learning. We have place for both learner and the learned.

@@ -1,6 +1,6 @@
 ### We are Hyper Drive
 
-Hyper Drive is the child of curiosity and belief. We here build things which others fathom only. Our purpose in to bring like-minded **innovators**, **engineers**, **inventors**, **enthusiasts** and **competitors** under a single roof.
+Hyper Drive is the child of curiosity and belief. We here, build things which others fathom only. Our purpose is to bring like-minded **innovators**, **engineers**, **inventors**, **enthusiasts** and **competitors** under a single roof.
 
 Doing so **we bring the learners and learned** under the same roof.
 
@@ -20,3 +20,5 @@ Repeat -> The steps again<br/>
 - We sell kits of autonomous bots
 
 A comunity of comitment, enthusiasm and learning. We have place for both learner and the learned.
+
+Technology as a sport is our philosophy. Started as a hobby now a brand. Hyper Drive HD intends to bring ENGINEERING to life through robotics
